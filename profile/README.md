@@ -1,1 +1,1 @@
-Novel is journaling software for writing everywhere, from your browser to the terminal. Currently the server is closed source, but some API clients are available. 
+Novel is journaling software for writing everywhere, from your browser to the terminal. Currently the server is closed source, but some API clients are available. Eventually as the server is at a usable state, we will open source it.
